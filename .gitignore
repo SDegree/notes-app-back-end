@@ -1,0 +1,4 @@
+# file gitignore agar direktori yg ditulis didlm ini tidak di pantau oleh git
+node_modules
+notes-api-webserver.pem
+.vscode
